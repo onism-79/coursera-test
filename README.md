@@ -1,3 +1,3 @@
 # coursera-test
-module_2_solution
+coursera test repository 
 
